@@ -12,8 +12,8 @@ conditions:
   - group:
       name: tg3
     value:
-      - percentage: 50
+      - percentage: 40
         option: s11
-      - percentage: 50
+      - percentage: 60
         option: s3
 value: s3
