@@ -1,0 +1,10 @@
+# This file was edited by CloudBees Feature Management
+type: experiment
+enabled: false
+flag: DemoApp.sayHello
+conditions:
+  - version:
+      operator: semver-eq
+      semver: '3'
+    value: true
+value: true

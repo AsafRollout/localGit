@@ -1,0 +1,29 @@
+# This file was edited by CloudBees Feature Management
+type: experiment
+flag: DemoApp.variant
+availableValues:
+  - var12
+  - var10
+  - var11
+  - var6
+  - var7
+  - var8
+  - var9
+  - var99
+value:
+  - percentage: 34
+    option: var12
+  - percentage: 14
+    option: var10
+  - percentage: 13
+    option: var11
+  - percentage: 13
+    option: var6
+  - percentage: 2
+    option: var7
+  - percentage: 2
+    option: var8
+  - percentage: 2
+    option: var9
+  - percentage: 20
+    option: var99
