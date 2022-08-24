@@ -8,7 +8,7 @@ conditions:
   - dependency:
       flag: DemoApp.zero3
       value: 'true'
-    value: null
+    value: s3
   - group:
       name: tg3
     value: s11
