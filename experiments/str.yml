@@ -4,4 +4,4 @@ flag: str
 availableValues:
   - s11
   - s3
-value: s11
+value: s3
